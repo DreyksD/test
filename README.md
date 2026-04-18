@@ -1,4 +1,6 @@
-#Clone rjsxrd - Автоматически обновляемые VPN-конфиги
+# Clone rjsxrd - Автоматически обновляемые VPN-конфиги
+
+---
 
 tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
